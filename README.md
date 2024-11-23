@@ -1,6 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 重庆大学蓝盟官网
 
-## Getting Started
+## 项目简介
+
+重庆大学蓝盟官网重构项目
+
+## 运行环境
+
+* node 22.0.1
+* next.js 15
+* react 19
+* ant-design
+
+## 运行项目
 
 First, run the development server:
 
